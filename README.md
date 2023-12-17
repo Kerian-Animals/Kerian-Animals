@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning **ReactJS**
 
 - 📫 How to reach me **kerian.animals.dev@gmail.com**
-- 🛠 I'm currently working for <a href="https://discord.gg/mylegacy" target="blank">MyLegacy RolePlay</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
