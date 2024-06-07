@@ -6,7 +6,7 @@
 - 💼 I'm currenty working for **DanganIsland** as a bot developper
 - 💼 I'm currently working on **Secondlife Roleplay** as the main developper *and the Co-Founder*
 
-- 📫 How to reach me: **kerian.animals.dev@gmail.com**
+- 📫 Reach me: **kerian.animals.dev@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://discord.gg/DFUp8Zbcnz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="DFUp8Zbcnz" height="30" width="40" /></a>
