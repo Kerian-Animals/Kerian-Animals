@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kerian-animals&label=Profile%20views&color=0e75b6&style=flat" alt="kerian-animals" /> </p>
 
 - 💼 I'm currenty working for **DanganIsland** as a bot developper
-- 💼 I'm currently working for **[riverhoodrp]** as a development manager, leading an amazing team of developers
+- 💼 I'm currently working for **[RiverHood RP](https://discord.gg/bwxNVamzCQ)** as a development manager, leading an amazing team of developers
 
 - 📫 Reach me: **kerian.animals.dev@gmail.com**
 <h3 align="left">Connect with me:</h3>
